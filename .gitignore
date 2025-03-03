@@ -1,0 +1,38 @@
+.env
+
+# ignore frontend/node_modules
+frontend/node_modules
+
+# ignore frontend/dist
+frontend/dist
+
+# ignore frontend/build
+frontend/build
+
+# ignore frontend/.next
+frontend/.next
+
+# ignore frontend/.env
+frontend/.env
+
+# ignore frontend/.env.local
+frontend/.env.local
+
+# ignore backend/node_modules
+backend/node_modules
+
+# ignore backend/dist
+backend/dist
+
+# ignore backend/.env
+backend/.env
+
+# ignore backend/.env.local
+backend/.env.local
+
+# ignore backend/logs
+backend/logs
+
+# ignore backend/logs/error.log
+backend/logs/error.log
+
