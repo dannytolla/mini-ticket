@@ -104,7 +104,7 @@ const Navbar: React.FC = () => {
           className={({ isActive }) =>
             isActive
               ? "text-primary-600 relative after:absolute after:bottom-0 after:left-0 after:w-full after:h-[2px] after:bg-primary-600 after:transition-all after:duration-300"
-              : "text-white hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+              : "text-black hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
           }
         >
           Login
