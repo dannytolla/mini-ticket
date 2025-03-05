@@ -3,7 +3,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import apiClient from "../apiClient";
 
-const API_URL = "http://localhost:5001/api";
+const API_URL = "https://mini-ticket-api.onrender.com/api";
 
 // Types
 interface User {

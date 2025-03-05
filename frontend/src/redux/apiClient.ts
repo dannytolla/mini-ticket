@@ -6,7 +6,7 @@ import axios, {
 import { toast } from "react-hot-toast";
 
 // API base URL
-const API_BASE_URL = "http://localhost:5001/api";
+const API_BASE_URL = "https://mini-ticket-api.onrender.com/api";
 
 // Create API client instance
 const apiClient: AxiosInstance = axios.create({
